@@ -1,0 +1,13 @@
+{
+  "name": "circle-hack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Irie Aoi <eai@mizle.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  },
+  "scripts": {
+    "profit": "playwright test"
+  }
+}
